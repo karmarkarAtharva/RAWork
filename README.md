@@ -1,7 +1,6 @@
-# RAWork Plan 
-RA work on Genrative AI
-Project Plan
-Month 1: Project Setup and Data Collection
+# RAWork Plan
+
+**Month 1: Project Setup and Data Collection**
   Week 1-2: Project Definition and Planning
   •	Define the project's objectives and scope.
   •	Identify the target audience and magazine themes.
@@ -12,7 +11,7 @@ Month 1: Project Setup and Data Collection
   •	Clean and preprocess the data, ensuring consistency and quality.
   •	Organize the data into appropriate structures (e.g., lists, dictionaries).
 
-Month 2: Model Development and Testing
+**Month 2: Model Development and Testing**
   Week 1-2: Natural Language Processing (NLP) Setup
   •	Explore and choose an NLP framework or library (e.g., spaCy, GPT-3, GPT-4).
   •	Set up the chosen NLP environment and obtain necessary credentials.
@@ -22,7 +21,7 @@ Month 2: Model Development and Testing
   •	Implement grammar and style checks to ensure coherent prompts.
   •	Create a basic user interface for generating prompts.
 
-Month 3: Enhancement and Deployment
+**Month 3: Enhancement and Deployment**
   Week 1-2: Algorithm Refinement
   •	Fine-tune the prompt generation algorithm based on user feedback.
   •	Optimize for diversity, relevance, and user customization.
