@@ -1,4 +1,4 @@
-#About Project
+# About Project
 
 This repository will contain a collection of Python notebooks, data sources, codes, and in detailed plan for each week's progress. where each notebook is used to generate 50 prompts related to Real Estate Home plans. The prompts are created by modifying the list of house_styles, exterior_colors, garage_options, basement_options, num_rooms, and many more factors in the notebook.
 
