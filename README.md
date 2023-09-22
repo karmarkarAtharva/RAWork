@@ -1,4 +1,9 @@
-# RAWork Plan
+#About Project
+
+This repository will contain a collection of Python notebooks, data sources, codes, and in detailed plan for each week's progress. where each notebook is used to generate 50 prompts related to Real Estate Home plans. The prompts are created by modifying the list of house_styles, exterior_colors, garage_options, basement_options, num_rooms, and many more factors in the notebook.
+
+
+## RAWork Plan
 
 **Month 1: Project Setup and Data Collection**
   Week 1-2: Project Definition and Planning
@@ -32,7 +37,7 @@
   •	Address any issues or improvements identified during testing.
   •	Finalize documentation and user guides.
 
-##  How to troubleshoot OR how will you know the model is doing a good job?
+###  How to troubleshoot OR how will you know the model is doing a good job?
 
 The effectiveness of the magazine prompt generation model can be assessed using a number of crucial indicators and techniques.
   •	Implement grammar and spelling checks to identify problems. 
